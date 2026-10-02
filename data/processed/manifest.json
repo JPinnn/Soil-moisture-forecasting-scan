@@ -1,0 +1,32 @@
+{
+  "rows": 707520,
+  "cols": [
+    "station",
+    "ts",
+    "sm2",
+    "sm4",
+    "sm8",
+    "sm20",
+    "st2",
+    "prcp",
+    "tair",
+    "ws",
+    "hr",
+    "mon",
+    "sm8_lag24",
+    "sm8_lag7d",
+    "sm8_lag1",
+    "sm8_lag6",
+    "sm8_delta24",
+    "sm8_delta6",
+    "r24",
+    "r7d",
+    "t3d",
+    "y_24h",
+    "y_72h"
+  ],
+  "md5": "8f965b616194e9c7652c7dd961a7c1b8",
+  "time_min": "2023-01-01 00:00:00",
+  "time_max": "2026-09-01 23:00:00",
+  "author": "Student A"
+}

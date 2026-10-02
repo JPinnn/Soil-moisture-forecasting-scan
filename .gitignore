@@ -1,0 +1,19 @@
+# Database lớn (>100 MB, GitHub sẽ từ chối)
+*.duckdb
+*.duckdb.wal
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# IDE / hệ điều hành
+.vscode/
+Thumbs.db
+desktop.ini
+
+# Bản sao lưu cục bộ
+_backup/

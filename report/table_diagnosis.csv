@@ -1,0 +1,5 @@
+question,evidence,assessment
+Có đánh bại naive?,13.8% cải thiện,TỐT
+Có overfitting?,"Train MAE = 0.46, Test MAE = 0.68",KHÔNG có
+Sai theo period?,Tháng 4 có MAE = 1.11,xem lại feature seasonal
+Sai ở giá trị cực đoan?,MAE trên top 10% = 1.16,cân nhắc quantile loss

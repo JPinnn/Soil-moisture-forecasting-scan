@@ -1,0 +1,11 @@
+,missing_rate,decision
+sm20,0.0821,drop or keep flag
+sm4,0.0549,drop or keep flag
+sm2,0.0318,interpolate/impute median
+st2,0.0152,interpolate/impute median
+tair,0.015,interpolate/impute median
+ws,0.0024,interpolate/impute median
+prcp,0.0024,interpolate/impute median
+station,0.0,keep
+ts,0.0,keep
+sm8,0.0,keep

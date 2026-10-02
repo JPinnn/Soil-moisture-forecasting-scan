@@ -1,0 +1,6 @@
+comparison,t_statistic,p_value,significance
+LSTM vs Naive,-74.36364009575873,0.0,*** significant
+LSTM vs Ridge,-73.59670543439682,0.0,*** significant
+LSTM vs LGBM,-55.49344771534993,0.0,*** significant
+Ridge vs Naive,20.039288618846225,3.829460585500601e-89,*** significant
+LGBM vs Naive,20.908478655108865,7.417366647309576e-97,*** significant

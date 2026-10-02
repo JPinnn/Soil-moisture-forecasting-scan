@@ -1,0 +1,5 @@
+,MAE_pct
+Naive (baseline),0.6962
+Ridge,0.75
+Random Forest,1.1939
+XGBoost,1.343

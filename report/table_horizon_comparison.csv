@@ -1,0 +1,7 @@
+model,MAE_24h,improvement_24h_%,MAE_72h,improvement_72h_%
+Naive (baseline),0.629,0.0,1.381,0.0
+Ridge,0.654,-4.0,1.436,-4.0
+Random Forest,0.83,-32.0,1.985,-43.8
+LightGBM,0.669,-6.4,1.526,-10.5
+XGBoost,0.715,-13.7,1.581,-14.5
+LSTM,0.543,13.7,1.224,11.3

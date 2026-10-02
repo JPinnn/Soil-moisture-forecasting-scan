@@ -1,0 +1,4 @@
+model,MAE
+LightGBM full (baseline),0.6821886289417085
+LightGBM transfer (unseen),0.33183146088121807
+Naive persistence (unseen),0.2675575878996028

@@ -1,0 +1,11 @@
+column,reason,decision
+station,time/unit key,keep for feature building
+ts,time/unit key,keep for feature building
+sm2,correlation with target 0.78,keep
+sm4,correlation with target 0.89,keep
+sm8,target,keep
+sm20,correlation with target 0.77,keep
+st2,correlation with target -0.20,keep
+prcp,correlation with target 0.02,consider dropping
+tair,correlation with target -0.14,keep
+ws,correlation with target -0.04,consider dropping
